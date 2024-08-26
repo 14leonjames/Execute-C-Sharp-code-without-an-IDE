@@ -18,4 +18,7 @@
   Open any text editor and write the code that you need to execute and save it as .cs extension OR download the C# code from the repository.
   To compile the code, open CMD and navigate to the C# code file location and type "csc C#FileName.cs"
 
-  If there are no errors in the code, the output can be seen on the CMD window.
+  If there are no errors in the code, this will create a .exe file in the same location.
+  
+  To execute the generated exe file in CMD, navigate to the generated .exe file location and type the file name and ENTER, it will execute and the output can be obtained.
+  Also, the generated .exe file can be executed by opening it directly.
